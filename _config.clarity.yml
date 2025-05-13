@@ -34,6 +34,9 @@ menu:
   - page: about
     directory: about/
     icon: fa-user
+  - page: links
+    directory: links/
+    icon: fa-external-link
   - page: rss
     directory: atom.xml
     icon: fa-rss
