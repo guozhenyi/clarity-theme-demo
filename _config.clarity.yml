@@ -36,7 +36,7 @@ menu:
     icon: fa-user
   - page: links
     directory: links/
-    icon: fa-external-link
+    icon: fa-link
 
 widgets: ## Seven widgets in sidebar provided: search, info, category, tag, recent_posts, recent_comments and links.
   - search
