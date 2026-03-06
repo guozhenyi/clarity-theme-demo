@@ -1,0 +1,15 @@
+- link_title: 友情&链接
+  link_desc: 这是一行描述...
+  link_list:
+    - name: 郭大侠的博客
+      link: https://www.guozhenyi.com
+      avatar: https://www.guozhenyi.com/asset/img/avatar.webp
+      desc:
+
+- link_title: 框架&主题
+  # link_desc: 这是一行描述...
+  link_list:
+    - name: Hexo
+      link: https://hexo.io/zh-cn/
+      avatar: https://hexo.io/logo.svg
+      desc: 快速、简洁且高效的博客框架
